@@ -2,7 +2,7 @@
 <html>
 <h1><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix Extension</a></h1>
 <br/><br/>
-<table border="1">
+<table>
   <td width="30%" valign="top"style="border: none; ">
     <br><a href="https://www.magezon.com/configurable-product-matrix.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/c/o/configurable_product_matrix.png" alt="Configurable Product Matrix" aria-labelledby="labelledby1538048219770" class="fotorama__img" aria-hidden="false"/><p>
       <td style="border:none;"></br>
