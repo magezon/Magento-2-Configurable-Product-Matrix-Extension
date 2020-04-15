@@ -28,13 +28,17 @@
 				</tr>
 			</table>
 			<br/>
-			<table>
-				<td width="40%">
+			<div>
+				<ul>
 					<li>Changes the default dropdown options selects with visually appealing and user-friendly options matrix</li>
 					<li>Allows customers to add multiple product variants to cart with a single click</li>
 					<li>A must-have feature for wholesales</li>
 					<li>Compatible with custom Magento2 themes</li>
-					<li>Compatible with ColorSwatch, AjaxCart family extensions</li>
+					<li>Compatible with ColorSwatch, AjaxCart family extensions</li></ul>
+			</div>
+			<div>
+				<table>
+				<td width="40%">
 					<h2>FEATURES FULL LIST</h2>
 					<li>Show the matrix for all or specific products</li>
 					<li>Include old prices, stock availability status in the table display</li>
@@ -52,4 +56,6 @@
 					<li>No core code changes</li>
 				</td>
 			</table>
+			</div>
+			
 			
