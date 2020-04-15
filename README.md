@@ -28,7 +28,7 @@
 				</tr>
 			</table>
 			<br/>
-			<tr>
+			<table>
 				<td width="40%">
 					<li>Changes the default dropdown options selects with visually appealing and user-friendly options matrix</li>
 					<li>Allows customers to add multiple product variants to cart with a single click</li>
@@ -51,5 +51,5 @@
 					<li>Free lifetime upgrades</li>
 					<li>No core code changes</li>
 				</td>
-			</tr>
+			</table>
 			
